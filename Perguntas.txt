@@ -4,5 +4,6 @@ Commit confirma as alterações feitas, Push envia as mesmas para o repositório
 Poder trabalhar em isolamento mas no mesmo projeto, sem que haja conflito ou partilha confusa de ficheiros entre equipa. Permite também voltar atrás caso existam falhas.
 3 – Nos Merges de conteúdos resultantes de um “Pop” podem resultar em conflitos. Em
 que consistem e como podem ser resolvidos esses conflitos?
+Acontece quando o Pop tenta aplicar alterações guardadas sobre o código atual e o Git encontra alterações incompatíveis nas linhas de código. Ele para o processo e pede intervenção do utilizador.
 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as
 diferenças entre eles?
