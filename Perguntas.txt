@@ -7,3 +7,4 @@ que consistem e como podem ser resolvidos esses conflitos?
 Acontece quando o Pop tenta aplicar alterações guardadas sobre o código atual e o Git encontra alterações incompatíveis nas linhas de código. Ele para o processo e pede intervenção do utilizador.
 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as
 diferenças entre eles?
+O clone cria uma cópia local de um repositório remoto da cloud e o Fork cria uma cópia de um repositório inteiro de outra pessoa para a sua conta da GitHub.
